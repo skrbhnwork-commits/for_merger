@@ -44,6 +44,7 @@
 							<SHORT-NAME>uint8_t</SHORT-NAME>
 							<CATEGORY>VALUE</CATEGORY>
 							<TYPE-EMITTER>cstdint</TYPE-EMITTER>
+							<!-- some comments -->
 						</STD-CPP-IMPLEMENTATION-DATA-TYPE>
 						<STD-CPP-IMPLEMENTATION-DATA-TYPE>
 							<SHORT-NAME>uint16_t</SHORT-NAME>
@@ -51,7 +52,7 @@
 							<TYPE-EMITTER>cstdint</TYPE-EMITTER>
 						</STD-CPP-IMPLEMENTATION-DATA-TYPE>
 						<STD-CPP-IMPLEMENTATION-DATA-TYPE>
-							<SHORT-NAME>uint32_t</SHORT-NAME>
+							<SHORT-NAME>uint32_t_t</SHORT-NAME>
 							<CATEGORY>VALUE</CATEGORY>
 							<TYPE-EMITTER>cstdint</TYPE-EMITTER>
 						</STD-CPP-IMPLEMENTATION-DATA-TYPE>
@@ -60,7 +61,9 @@
 							<CATEGORY>VALUE</CATEGORY>
 							<TYPE-EMITTER>cstdint</TYPE-EMITTER>
 						</STD-CPP-IMPLEMENTATION-DATA-TYPE>
+							<!-- some comments -->
 					</ELEMENTS>
+							<!-- some comments -->
 				</AR-PACKAGE>
 			</AR-PACKAGES>
 		</AR-PACKAGE>
