@@ -54,13 +54,16 @@
 							<SHORT-NAME>uint32_t</SHORT-NAME>
 							<CATEGORY>VALUE</CATEGORY>
 							<TYPE-EMITTER>cstdint</TYPE-EMITTER>
+							<!-- some comments -->
 						</STD-CPP-IMPLEMENTATION-DATA-TYPE>
 						<STD-CPP-IMPLEMENTATION-DATA-TYPE>
 							<SHORT-NAME>uint64_t</SHORT-NAME>
+							<!-- some comments -->
 							<CATEGORY>VALUE</CATEGORY>
-							<TYPE-EMITTER>cstdint</TYPE-EMITTER>
+							<TYPE-EMITTER>cstdints</TYPE-EMITTER>
 						</STD-CPP-IMPLEMENTATION-DATA-TYPE>
 					</ELEMENTS>
+					<!-- some comments -->
 				</AR-PACKAGE>
 			</AR-PACKAGES>
 		</AR-PACKAGE>
