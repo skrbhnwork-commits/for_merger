@@ -25,6 +25,7 @@
 							<SHORT-NAME>int8_t</SHORT-NAME>
 							<CATEGORY>VALUE</CATEGORY>
 							<TYPE-EMITTER>cstdint</TYPE-EMITTER>
+							<!-- update 5 -->
 						</STD-CPP-IMPLEMENTATION-DATA-TYPE>
 						<STD-CPP-IMPLEMENTATION-DATA-TYPE>
 							<SHORT-NAME>int16_t</SHORT-NAME>
